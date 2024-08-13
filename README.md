@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Camile Vitória Buczak
+- I'm currently studying software engineering, and taking English and Spanish courses
+- I intend to work as a systems analyst
+- 📫 You can contact me by phone +555 (42) 99813-8782...
+- 😄 ela/dela 
+- ⚡ Fun fact: I have a robotics course, and also as a rural development agent
