@@ -25,15 +25,13 @@ Me chamo **Camile Vitória Buczak**, sou estudante de **Engenharia de Software**
 
 ## 📌 Projetos em destaque
 
-### ✅ [To-Do List](https://github.com/camileVIH/to-do-list) *(em breve)*
-Uma lista de tarefas simples onde é possível adicionar, marcar e remover atividades.  
-Feita com HTML, CSS e JavaScript puro.
+### ✅ [To-Do List](https://camileVIH.github.io/to-do-list/)
+Uma aplicação web para organização de tarefas diárias. Desenvolvida com HTML, CSS e JavaScript puro.  
+✔️ Adicionar, remover e marcar tarefas como concluídas.  
+🔗 [Ver online](https://camileVIH.github.io/to-do-list/) | [Código-fonte](https://github.com/camileVIH/to-do-list)
 
-### ✅ [Calculadora JavaScript](https://github.com/camileVIH/calculadora-js) *(em breve)*
-Calculadora funcional com operações básicas e interface amigável.
-
-### ✅ [Página Pessoal](https://github.com/camileVIH/pagina-pessoal) *(em breve)*
-Uma página web de apresentação com seu perfil, projetos e formas de contato.
+### 🚧 Calculadora JavaScript *(em breve)*  
+### 🚧 Página Pessoal *(em breve)*
 
 ---
 
